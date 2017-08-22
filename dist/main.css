@@ -1,0 +1,21 @@
+.layer {
+  color: red;
+  width: 600px;
+  height: 400px;
+}
+.layer > div {
+  width: 200px;
+  height: 200px;
+  background: #999;
+}
+.flex_div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #aaa;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/
