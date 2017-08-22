@@ -4,6 +4,9 @@ webpack2 教程
 - 1. 单页面应用的输入输出 src1对应 webpack-src1-config.js
 - 2. 多页面的输入输出 src 对应webpack-config.js
 - 3. css加载器的使用
-- 4. less加载器的使用
+- 4. less加载器的使用,使用postcss转换less
 - 5. file加载器的使用，主要转换图片，或者也可以使用url-loader
 - 6. 模板加载器的使用（ejs）,同时加入了一个接口调用
+- 7. 模板html-webpack-plugin
+- 8. jq的引入
+- 9. babel加载器的使用，转换es6
